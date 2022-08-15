@@ -1,6 +1,3 @@
 [submodule "quizzlet"]
 	path = quizzlet
 	url = https://github.com/danykim57/flutterLab.git
-[submodule "destini-challenge-starting"]
-	path = destini-challenge-starting
-	url = https://github.com/danykim57/flutterLab.git
